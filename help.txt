@@ -1,0 +1,3 @@
+for Mongodb - mongod
+for vidly - npm start
+for vidly-node-backend - node index.js
